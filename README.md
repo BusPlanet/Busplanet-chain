@@ -1,5 +1,8 @@
 # Busplanet-chain
 
+## 商业星球白皮书
+* Busplanet6.0.docx
+
 ## 安装
 
 * [Install](../../wiki/install)
